@@ -1,2 +1,5 @@
 # Family_Marchmadness_Pool
-Looking at my girlfriend's family march madness pool
+Who is the best march madness player out of my grilfriend family's pool?
+
+For the full write up look at the ".ipynb" file
+For complete code look at the ".py" file
